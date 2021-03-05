@@ -20,3 +20,36 @@ El repositorio contiene arquitecturas basadas en redes neuronales convolucionale
 Se tomo un promedio de 25 subvolúmenes por cada resonancia mágnetica perteneciente a un paciente.
 
   El dataset final en formato .h5 se encuentra en la siguiente ruta: https://drive.google.com/drive/folders/1_xMn9bkxl7NoUwE69j25xsglOsMS1sv3?usp=sharing
+  
+  - **4.Entrenamiento**: se entrenó un total de 117, 114 y 70 épocas las arquitectura UNet,ResUnet y Vnet respectivamente, encontandose un coeficiente de Dice de 70% para UNet siendo el modelo que mejor rendimiento tiene.
+  - **5.Resultados**: 
+ <table>
+<thead>
+<tr>
+<th>Data</th>
+<th align="center">WT</th>
+<th align="center">ET</th>
+<th align="center">TC</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>UNet3D</td>
+<td align="center">0.889</td>
+<td align="center">0.737</td>
+<td align="center">0.528</td>
+</tr>
+<tr>
+<td>ResUnet3D</td>
+<td align="center">0.893</td>
+<td align="center">0.696</td>
+<td align="center">0.49</td>
+</tr>
+<tr>
+<td>VNet</td>
+<td align="center">0.869</td>
+<td align="center">0.639</td>
+<td align="center">0.384</td>
+</tr>
+</tbody>
+</table>
