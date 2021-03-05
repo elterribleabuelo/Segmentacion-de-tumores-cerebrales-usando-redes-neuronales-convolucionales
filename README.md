@@ -21,7 +21,7 @@ Se tomo un promedio de 25 subvolúmenes por cada resonancia mágnetica perteneci
 
   El dataset final en formato .h5 se encuentra en la siguiente ruta: https://drive.google.com/drive/folders/1_xMn9bkxl7NoUwE69j25xsglOsMS1sv3?usp=sharing
   
-- **4.Entrenamiento**: se entrenó un total de 117, 114 y 70 épocas las arquitectura UNet,ResUnet y Vnet respectivamente, encontandose un coeficiente de Dice de 70% para UNet siendo el modelo que mejor rendimiento tiene.
+- **4.Entrenamiento**: se entrenó un total de 117, 114 y 70 épocas las arquitectura UNet,ResUnet y Vnet respectivamente, encontrándose un coeficiente de Dice de 70% para UNet siendo el modelo que mejor rendimiento tiene.
 - **5.Resultados**: 
  <table align = "center">
 <thead>
