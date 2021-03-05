@@ -2,7 +2,7 @@
 
 El repositorio contiene arquitecturas basadas en redes neuronales convolucionales 3D usando el dataset <a href="https://www.kaggle.com/awsaf49/brats20-dataset-training-validation">BraTS2020</a>, presentado como proyecto final del curso de Inteligencia Artificial Avanzada.
 
-<img src="https://github.com/renzoguerrero17/Segmentacion-de-tumores-cerebrales-usando-redes-neuronales-convolucionales/blob/master/assets/Brats2020.gif width="60%" height="60%" alt="centered image">
+<img src="https://github.com/renzoguerrero17/Segmentacion-de-tumores-cerebrales-usando-redes-neuronales-convolucionales/blob/master/assets/Brats2020.gif" alt="centered image">
 
 *Pasos*:
 
