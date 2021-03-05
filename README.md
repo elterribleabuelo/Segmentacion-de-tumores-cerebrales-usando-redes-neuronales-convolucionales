@@ -2,6 +2,8 @@
 
 El repositorio contiene arquitecturas basadas en redes neuronales convolucionales 3D usando el dataset <a href="https://www.kaggle.com/awsaf49/brats20-dataset-training-validation">BraTS2020</a>, presentado como proyecto final del curso de Inteligencia Artificial Avanzada.
 
+<img src="https://github.com/renzoguerrero17/Segmentacion-de-tumores-cerebrales-usando-redes-neuronales-convolucionales/blob/master/assets/Brats2020.gif" width="60%" height="60%" style="max-width:100%;">
+
 *Pasos*:
 
 - **1.Analisis exploratorio**: Se exploró que secuencias conforman una resonancia magnética, además de seleccionar que máscaras de segmentación se usarán en el conjunto de llegada las cuales seran el Edema Peritumoral(ED),Núcleo del tumor(TC) y Tumor realzado(TE).
