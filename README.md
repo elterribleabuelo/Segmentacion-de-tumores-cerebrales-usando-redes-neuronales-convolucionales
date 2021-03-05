@@ -53,3 +53,5 @@ Se tomo un promedio de 25 subvolúmenes por cada resonancia mágnetica perteneci
 </tr>
 </tbody>
 </table>
+
+- **6.Pesos finales**: https://drive.google.com/drive/folders/18huLFZoH1110vwiO-4ygW7jFGyz8Syfj?usp=sharing
